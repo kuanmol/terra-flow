@@ -3,7 +3,6 @@ name: "terra-flow"
 on:
   push:
     branches:
-      - main
       - stage 
     paths:
       - terraform/**

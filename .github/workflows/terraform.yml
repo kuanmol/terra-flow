@@ -1,4 +1,4 @@
-name: "TERRA-FLOW"
+name: "terra-flow"
 
 on:
   push:
